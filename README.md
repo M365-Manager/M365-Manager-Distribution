@@ -1,6 +1,7 @@
 Note: This README is available in both English and French. / Ce README est disponible en anglais et en français.
 
 **🇬🇧 English Version**
+
 ⚡ M365 Manager - SaaS Synchronization
 M365 Manager is a standalone desktop application designed to automate and secure the management of Microsoft 365 (Entra ID) accounts for educational institutions and businesses.
 
@@ -62,6 +63,7 @@ It is strictly forbidden to reverse-engineer, decompile, resell, or modify this 
 Please refer to the LICENSE.txt file for the exact terms of the End User License Agreement (EULA).
 
 **🇫🇷 Version Française**
+
 ⚡ M365 Manager - Synchronisation SaaS
 M365 Manager est une application bureau autonome (Stand-alone) conçue pour automatiser et sécuriser la gestion des comptes Microsoft 365 (Entra ID) au sein des établissements scolaires et des entreprises.
 
