@@ -1,0 +1,27 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+M365 Manager ("The Software")
+
+Copyright (c) 2026 - Tous droits réservés.
+
+1. PROPRIÉTÉ
+Ce logiciel et son code source sont la propriété exclusive de leur créateur. Le présent accord ne vous confère aucun droit de propriété sur le Logiciel. Tous les droits non expressément accordés sont réservés par l'auteur.
+
+2. RESTRICTIONS
+Vous vous engagez à NE PAS, et à ne pas autoriser de tiers à :
+a) Rétro-concevoir (reverse-engineer), décompiler, désassembler ou tenter de découvrir le code source du Logiciel.
+b) Modifier, adapter, traduire ou créer des œuvres dérivées basées sur le Logiciel.
+c) Copier, distribuer, vendre, louer, prêter ou sous-licencier le Logiciel ou toute partie de celui-ci à des fins commerciales sans autorisation écrite.
+d) Contourner ou modifier tout mécanisme de sécurité ou de protection des droits intégré au Logiciel.
+
+3. UTILISATION AUTORISÉE
+Le Logiciel est concédé sous licence, et non vendu. Vous êtes autorisé à utiliser le Logiciel tel quel (au format exécutable compilé) pour la gestion interne de votre établissement ou entreprise.
+
+4. ABSENCE DE GARANTIE
+Le Logiciel est fourni "tel quel", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande ou d'adéquation à un usage particulier. En aucun cas l'auteur ne pourra être tenu responsable des réclamations, dommages ou autres responsabilités découlant de l'utilisation du Logiciel.
+
+5. RÉSILIATION
+La présente licence sera automatiquement résiliée si vous ne respectez pas l'une des restrictions mentionnées. Lors de la résiliation, vous devez détruire toutes les copies du Logiciel en votre possession.
+
+---
+En utilisant ce Logiciel, vous acceptez les termes de la présente licence.
