@@ -40,8 +40,9 @@ Follow these simple steps:
 ## 🚀 Installation
 1. Go to the **[Releases](../../releases/latest)** section.
 2. Download **`EntraSync-Windows.zip`** (or Mac).
-3. Extract the `.zip` file and double-click the `.exe` to launch.
-4. **Security Note:** Windows SmartScreen may block the launch. Click "More info" then "Run anyway".
+3. Extract the `.zip` file and double-click the `.exe` (Windows) or `.app` (Mac) to launch.
+4. **Windows Security Note:** SmartScreen may block the launch. Click "More info" then "Run anyway".
+5. **macOS Security Note:** Gatekeeper may display *"EntraSync cannot be opened"*. **Right-click** (or Control+click) on the app, then click **"Open"**. A dialog will appear — click **"Open"** again. macOS will remember your choice.
 
 ---
 
@@ -95,8 +96,9 @@ Voici la marche à suivre :
 ## 🚀 Installation
 1. Rendez-vous dans la section **[Releases](../../releases/latest)**.
 2. Téléchargez le fichier **`EntraSync-Windows.zip`** (ou Mac).
-3. Extrayez le fichier `.zip` et double-cliquez sur l'application.
-4. **Note de sécurité :** Windows SmartScreen peut bloquer le lancement. Cliquez sur "Informations complémentaires" puis "Exécuter quand même".
+3. Extrayez le fichier `.zip` et double-cliquez sur le `.exe` (Windows) ou le `.app` (Mac).
+4. **Sécurité Windows :** SmartScreen peut bloquer le lancement. Cliquez sur "Informations complémentaires" puis "Exécuter quand même".
+5. **Sécurité macOS :** Gatekeeper peut afficher *"Impossible d'ouvrir EntraSync"*. Faites un **clic droit** (ou Contrôle+clic) sur l'application, puis cliquez sur **"Ouvrir"**. Une boîte de dialogue apparaîtra — cliquez à nouveau sur **"Ouvrir"**. macOS retiendra votre choix.
 
 ---
 
