@@ -9,7 +9,7 @@ Note: This README is available in both English and French. / Ce README est dispo
 
 ## 🌟 Key Features
 - **Native Excel & CSV Support:** Read data directly without conversion.
-- **4-Step Simulation (Dry Run):** Review namesake conflicts (O(N²) Algorithm), updates, creations, and safe deletions.
+- **4-Step Simulation (Dry Run):** Intelligent namesake detection, updates review, creations, and safe deletions.
 - **Asynchronous Execution:** Fast deployment without freezing the UI.
 
 ---
@@ -65,7 +65,7 @@ Please refer to the `LICENSE.txt` file for the exact terms of the End User Licen
 
 ## 🌟 Fonctionnalités Principales
 - **Support Natif Excel & CSV :** Lecture directe sans conversion.
-- **Workflow en 4 Étapes (Dry Run) :** Résolution des homonymes (Algorithme O(N²)), visualisation des mises à jour, créations et suppressions sécurisées.
+- **Workflow en 4 Étapes (Dry Run) :** Détection intelligente des homonymes, visualisation des mises à jour, créations et suppressions sécurisées.
 - **Exécution Asynchrone :** Déploiement rapide sans figer l'interface.
 
 ---
